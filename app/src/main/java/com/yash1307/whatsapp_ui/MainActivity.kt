@@ -1,4 +1,4 @@
-package com.example.whatsapp_ui
+package com.yash1307.whatsapp_ui
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -21,6 +21,7 @@ import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
+import com.example.whatsapp_ui.R
 import com.example.whatsapp_ui.ui.theme.WhatsAPP_UITheme
 
 class MainActivity : ComponentActivity() {
