@@ -1,4 +1,4 @@
-package com.example.whatsapp_ui
+package com.yash1307.whatsapp_ui
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

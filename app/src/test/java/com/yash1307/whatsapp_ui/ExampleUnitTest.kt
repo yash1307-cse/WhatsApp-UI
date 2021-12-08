@@ -1,4 +1,4 @@
-package com.example.whatsapp_ui
+package com.yash1307.whatsapp_ui
 
 import org.junit.Test
 
