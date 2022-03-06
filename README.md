@@ -1,5 +1,5 @@
 # WhatsApp UI (Jetpack Compose)
-This is simple and basic WhatsApp UI by using Jetpack Compose.
+This is a simple and basic WhatsApp UI by using Jetpack Compose.
 
 
 ## What is Jetpack Compose
